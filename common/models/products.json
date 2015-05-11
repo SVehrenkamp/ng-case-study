@@ -1,6 +1,6 @@
 {
   "name": "products",
-  "plural": "n",
+  "plural": "",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -19,7 +19,7 @@
       "required": true
     },
     "price": {
-      "type": "string",
+      "type": "number",
       "required": true
     },
     "online": {

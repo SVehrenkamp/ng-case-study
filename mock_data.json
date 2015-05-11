@@ -1,0 +1,580 @@
+[
+  {
+    "title": "POWERNET",
+    "image": "sample.jpg",
+    "description": "Non incididunt occaecat dolor minim enim eu aliqua ut eu amet fugiat elit aute officia.",
+    "price": 191.36,
+    "online": true,
+    "quantity": 56,
+    "details": [
+      "Dolor sunt cupidatat nisi eu incididunt nisi et.",
+      "Id commodo ut fugiat est exercitation non elit Lorem quis nisi.",
+      "Id duis anim est incididunt non ex exercitation mollit Lorem exercitation in.",
+      "Nulla duis eu nostrud commodo laboris exercitation eiusmod pariatur consequat cupidatat.",
+      "Non eiusmod qui excepteur tempor laboris aliquip tempor sint sunt.",
+      "Adipisicing elit consequat eu commodo qui exercitation nulla.",
+      "Et pariatur ad laborum consequat veniam eiusmod ipsum voluptate pariatur."
+    ]
+  },
+  {
+    "title": "DEVILTOE",
+    "image": "sample.jpg",
+    "description": "Voluptate reprehenderit minim eiusmod duis aliqua voluptate incididunt non.",
+    "price": 340.94,
+    "online": false,
+    "quantity": 51,
+    "details": [
+      "Qui reprehenderit consequat anim officia elit amet id adipisicing occaecat.",
+      "Incididunt minim nulla ex elit in cillum duis excepteur amet.",
+      "Quis culpa elit enim ipsum ullamco deserunt aliquip enim.",
+      "Deserunt adipisicing eu esse labore in aliqua fugiat sunt proident commodo in minim minim.",
+      "Consectetur labore incididunt ullamco commodo laborum et excepteur eiusmod quis dolor est nisi excepteur.",
+      "In ullamco velit non do ipsum in occaecat voluptate aliqua id.",
+      "Lorem mollit enim occaecat occaecat culpa incididunt nostrud."
+    ]
+  },
+  {
+    "title": "EXPOSA",
+    "image": "sample.jpg",
+    "description": "Laboris commodo reprehenderit culpa magna ea aute nulla eiusmod culpa ut aliqua aliqua eiusmod.",
+    "price": 55.15,
+    "online": true,
+    "quantity": 31,
+    "details": [
+      "Aliqua eu tempor dolore labore deserunt nisi ipsum voluptate fugiat qui.",
+      "Veniam ipsum enim irure laborum.",
+      "Ea sunt anim sunt quis nisi pariatur fugiat esse consequat anim proident.",
+      "Occaecat magna fugiat et veniam ipsum et occaecat nisi elit.",
+      "Aliquip dolor officia occaecat esse sit quis aliqua laboris qui nulla esse cillum nulla dolor.",
+      "Lorem laborum dolor aliquip aliqua voluptate dolor dolor velit adipisicing quis Lorem Lorem.",
+      "Eu cupidatat irure est sunt excepteur minim id aliqua nulla."
+    ]
+  },
+  {
+    "title": "SKINSERVE",
+    "image": "sample.jpg",
+    "description": "Dolore ex laborum sint eu nostrud sit amet et.",
+    "price": 359.95,
+    "online": true,
+    "quantity": 36,
+    "details": [
+      "Exercitation tempor aliqua aliquip proident sint adipisicing minim cillum laboris fugiat aliquip voluptate ex.",
+      "Minim ullamco commodo id consequat qui commodo eu.",
+      "Cupidatat enim incididunt laborum eiusmod id sint.",
+      "Labore aliqua aute fugiat quis proident irure nulla ea tempor enim irure nisi laborum.",
+      "Consequat magna consectetur minim pariatur adipisicing mollit exercitation magna ea enim.",
+      "Fugiat minim ea fugiat eu esse adipisicing excepteur nulla consectetur duis laboris fugiat.",
+      "Ut do qui ex est."
+    ]
+  },
+  {
+    "title": "ZENTIA",
+    "image": "sample.jpg",
+    "description": "Velit eu duis duis incididunt consequat tempor adipisicing commodo.",
+    "price": 115.29,
+    "online": true,
+    "quantity": 42,
+    "details": [
+      "Deserunt magna nisi occaecat amet duis excepteur laborum amet dolore laborum.",
+      "Pariatur culpa voluptate do ut.",
+      "Eu nulla eiusmod eiusmod laboris in consectetur commodo fugiat adipisicing.",
+      "Commodo nostrud pariatur fugiat eiusmod culpa mollit nulla commodo mollit fugiat deserunt.",
+      "Est dolor aliquip cupidatat sint.",
+      "Laboris laboris laborum esse laboris dolore aliquip adipisicing.",
+      "Eu laborum magna do adipisicing deserunt labore eiusmod labore."
+    ]
+  },
+  {
+    "title": "HELIXO",
+    "image": "sample.jpg",
+    "description": "Duis pariatur non cupidatat sint laboris aliquip adipisicing fugiat culpa eu laboris nostrud.",
+    "price": 333.98,
+    "online": true,
+    "quantity": 67,
+    "details": [
+      "Pariatur officia minim eu nulla sit ut dolore qui.",
+      "Laboris fugiat anim sint excepteur dolor sint dolore in magna proident.",
+      "Eiusmod amet sint sit ipsum consequat.",
+      "Quis eiusmod proident ullamco officia esse ex duis qui eiusmod qui sunt.",
+      "Commodo ut eiusmod excepteur sit ullamco enim commodo consectetur laboris ipsum cillum culpa ullamco.",
+      "Cillum mollit consectetur commodo anim consequat.",
+      "Eiusmod deserunt ea sunt anim tempor enim amet reprehenderit eiusmod adipisicing quis."
+    ]
+  },
+  {
+    "title": "ADORNICA",
+    "image": "sample.jpg",
+    "description": "Velit minim exercitation qui aliquip est occaecat magna sint amet in consectetur.",
+    "price": 155.77,
+    "online": false,
+    "quantity": 5,
+    "details": [
+      "Esse sit aute aute occaecat nostrud amet velit proident ut amet do.",
+      "Deserunt laboris ea anim officia eiusmod voluptate officia minim nulla consequat.",
+      "Amet deserunt ullamco id tempor duis id est officia et ut aute ea.",
+      "Do nulla id laborum culpa id consequat duis.",
+      "Nulla laborum irure ad cillum cupidatat magna adipisicing proident laboris.",
+      "Ipsum fugiat magna eu eiusmod cupidatat consectetur cupidatat sit tempor ipsum reprehenderit.",
+      "Culpa elit enim minim sunt mollit aliqua incididunt adipisicing."
+    ]
+  },
+  {
+    "title": "MANUFACT",
+    "image": "sample.jpg",
+    "description": "Culpa irure anim sint voluptate voluptate tempor ex anim nostrud mollit id.",
+    "price": 235.91,
+    "online": false,
+    "quantity": 36,
+    "details": [
+      "Veniam cupidatat in sit id veniam.",
+      "Duis enim aute irure irure irure ex ad.",
+      "Irure laboris eiusmod dolore veniam cillum culpa adipisicing voluptate.",
+      "Nisi veniam veniam nostrud elit est mollit consequat minim minim duis ipsum voluptate labore.",
+      "Sit ea ut enim quis eu aute ut id ad excepteur exercitation in magna.",
+      "Elit irure anim consequat labore est fugiat occaecat.",
+      "Anim enim laborum commodo exercitation duis reprehenderit mollit mollit consectetur voluptate magna et."
+    ]
+  },
+  {
+    "title": "GOKO",
+    "image": "sample.jpg",
+    "description": "Amet in deserunt eiusmod nisi magna nostrud.",
+    "price": 253.93,
+    "online": false,
+    "quantity": 5,
+    "details": [
+      "Cillum nulla duis aliqua magna nulla nisi nulla enim.",
+      "Sint exercitation sint veniam consequat ut amet officia duis est proident ex tempor.",
+      "Mollit ullamco pariatur sunt reprehenderit culpa Lorem culpa consequat laborum cupidatat.",
+      "Commodo ex do fugiat ipsum nostrud Lorem tempor ea.",
+      "Dolore sint aliqua reprehenderit voluptate excepteur anim cillum incididunt.",
+      "Id occaecat consectetur adipisicing in excepteur velit commodo nisi.",
+      "Commodo sit consequat laborum anim cupidatat fugiat laborum aliquip."
+    ]
+  },
+  {
+    "title": "NEBULEAN",
+    "image": "sample.jpg",
+    "description": "Ipsum consequat cillum veniam magna eu laborum.",
+    "price": 193.24,
+    "online": true,
+    "quantity": 19,
+    "details": [
+      "Consequat ullamco nulla dolor duis nostrud culpa laborum fugiat laboris non irure deserunt pariatur.",
+      "Esse sint exercitation do dolore esse consequat irure aliquip sit qui incididunt amet nulla.",
+      "Labore nostrud cupidatat consectetur cupidatat laboris.",
+      "Non elit irure exercitation eu deserunt eu incididunt nisi elit.",
+      "Lorem ullamco eu enim laboris amet consectetur ullamco deserunt.",
+      "Excepteur amet fugiat magna amet elit mollit est duis.",
+      "Nulla ullamco tempor anim magna non mollit ex minim eiusmod esse sint."
+    ]
+  },
+  {
+    "title": "COMTRAK",
+    "image": "sample.jpg",
+    "description": "Adipisicing esse culpa veniam qui adipisicing in voluptate.",
+    "price": 59.08,
+    "online": true,
+    "quantity": 47,
+    "details": [
+      "Cillum pariatur minim dolore minim voluptate ullamco.",
+      "Commodo qui enim duis voluptate fugiat pariatur voluptate cupidatat do ea officia irure.",
+      "In elit occaecat commodo ullamco officia ad eu ut laboris occaecat in nostrud.",
+      "Elit sit cillum duis sit reprehenderit ipsum excepteur aute mollit pariatur enim.",
+      "Laboris ad ex laborum ex.",
+      "Aliquip cillum cupidatat anim duis culpa aliqua proident ex qui ut est fugiat.",
+      "Minim amet adipisicing voluptate ipsum mollit magna id esse do."
+    ]
+  },
+  {
+    "title": "PETICULAR",
+    "image": "sample.jpg",
+    "description": "Amet id eiusmod ex occaecat sint.",
+    "price": 162.78,
+    "online": true,
+    "quantity": 62,
+    "details": [
+      "Sint voluptate consequat et consectetur elit cupidatat do.",
+      "Velit minim in dolore mollit cupidatat veniam.",
+      "Enim magna laboris ipsum esse et in ipsum minim consequat ex amet reprehenderit consectetur mollit.",
+      "Mollit elit pariatur in non tempor duis ullamco aute aliqua nulla.",
+      "Id esse proident anim ea ut dolor irure eiusmod do ipsum et.",
+      "Laborum cupidatat non aliqua laborum anim nostrud proident irure.",
+      "Reprehenderit commodo laborum cupidatat reprehenderit exercitation tempor consectetur proident ullamco dolore cupidatat culpa enim dolor."
+    ]
+  },
+  {
+    "title": "OHMNET",
+    "image": "sample.jpg",
+    "description": "Velit ea incididunt eiusmod esse Lorem quis veniam velit consequat labore sit eu deserunt ea.",
+    "price": 92.94,
+    "online": false,
+    "quantity": 16,
+    "details": [
+      "Do adipisicing deserunt ea labore quis sit qui.",
+      "Aliquip et dolore in minim.",
+      "Culpa minim esse nisi sit mollit et ut ipsum duis eu Lorem proident nisi.",
+      "Nisi veniam incididunt ex ipsum cupidatat excepteur nostrud labore.",
+      "Lorem ea cillum tempor dolor elit veniam pariatur quis consectetur amet et aliqua.",
+      "Aliquip in ipsum incididunt ad exercitation ipsum do.",
+      "Duis proident magna exercitation exercitation ullamco minim tempor nisi pariatur elit laborum voluptate non."
+    ]
+  },
+  {
+    "title": "GEOLOGIX",
+    "image": "sample.jpg",
+    "description": "Laborum laborum aliqua elit labore.",
+    "price": 49.16,
+    "online": false,
+    "quantity": 86,
+    "details": [
+      "Proident duis fugiat consequat duis sint mollit mollit eiusmod reprehenderit consequat elit aliqua labore aliqua.",
+      "Sint culpa elit anim nostrud.",
+      "Quis in amet cillum deserunt elit cillum pariatur laboris quis qui ex exercitation id enim.",
+      "Non dolore ea pariatur dolor.",
+      "Id culpa ipsum voluptate occaecat incididunt qui duis exercitation duis excepteur incididunt sint esse in.",
+      "Exercitation tempor sit dolore ipsum consectetur non nisi enim nulla consectetur veniam esse.",
+      "Aliqua qui qui labore laborum labore reprehenderit eiusmod dolore ullamco mollit labore laboris laboris Lorem."
+    ]
+  },
+  {
+    "title": "HATOLOGY",
+    "image": "sample.jpg",
+    "description": "Eu reprehenderit do amet dolore cillum laborum ea pariatur elit nulla aliqua minim.",
+    "price": 124.68,
+    "online": false,
+    "quantity": 92,
+    "details": [
+      "Irure anim irure ut sunt aute ad culpa est culpa adipisicing nisi magna amet.",
+      "Fugiat fugiat culpa sunt exercitation nisi sit aute amet adipisicing deserunt.",
+      "Amet ea minim consectetur ut.",
+      "Tempor ex tempor incididunt anim sit Lorem deserunt mollit ipsum ex consequat culpa.",
+      "Ad anim eu quis ipsum proident labore ea.",
+      "Pariatur cillum aute velit ex nostrud consequat commodo nostrud id in.",
+      "Do esse consequat cupidatat sint officia."
+    ]
+  },
+  {
+    "title": "ISOLOGICA",
+    "image": "sample.jpg",
+    "description": "Voluptate deserunt ullamco id cupidatat Lorem duis qui non proident ut do quis labore exercitation.",
+    "price": 327.78,
+    "online": false,
+    "quantity": 33,
+    "details": [
+      "Do consectetur id velit officia velit reprehenderit occaecat cupidatat sint.",
+      "Nisi consectetur pariatur ea est veniam qui Lorem amet proident.",
+      "Ex velit qui non excepteur Lorem cupidatat qui.",
+      "Ut ipsum qui nisi sint aliquip ullamco et sunt.",
+      "Et et eiusmod aute enim aliqua est cillum dolor in ipsum.",
+      "Aliquip amet et voluptate ad tempor.",
+      "Labore nisi est velit sint est voluptate."
+    ]
+  },
+  {
+    "title": "HAIRPORT",
+    "image": "sample.jpg",
+    "description": "Laborum elit ipsum pariatur fugiat culpa mollit pariatur amet fugiat cillum dolore mollit.",
+    "price": 118.46,
+    "online": true,
+    "quantity": 36,
+    "details": [
+      "Eiusmod reprehenderit incididunt elit nulla id.",
+      "Et esse fugiat elit anim do deserunt esse nostrud officia.",
+      "Fugiat ea sit eiusmod cillum tempor et pariatur non ipsum occaecat nisi sit ut culpa.",
+      "Labore consequat veniam ullamco amet occaecat velit est aute elit non.",
+      "Voluptate deserunt quis anim dolor dolor.",
+      "Eu et ea magna laborum officia aliquip labore minim occaecat sit ullamco excepteur.",
+      "Tempor mollit est eiusmod eu nulla labore."
+    ]
+  },
+  {
+    "title": "SCENTRIC",
+    "image": "sample.jpg",
+    "description": "Occaecat sit minim aliquip ut est eiusmod proident sint exercitation duis qui id sit nulla.",
+    "price": 262.14,
+    "online": false,
+    "quantity": 88,
+    "details": [
+      "Sit qui aliquip fugiat deserunt tempor veniam Lorem anim elit ipsum cupidatat sint aute.",
+      "Reprehenderit amet consectetur eu excepteur eiusmod ullamco exercitation id.",
+      "Aliquip voluptate velit ea est commodo commodo elit esse ex Lorem.",
+      "Aute qui duis reprehenderit dolor.",
+      "Nisi consequat nisi adipisicing eu tempor adipisicing cupidatat adipisicing aute aute eiusmod.",
+      "Labore esse sit ex adipisicing deserunt exercitation ea aliquip minim qui esse commodo.",
+      "Eiusmod enim consectetur exercitation ullamco sint ullamco sunt."
+    ]
+  },
+  {
+    "title": "ZOLAREX",
+    "image": "sample.jpg",
+    "description": "Labore reprehenderit duis laboris labore irure dolore exercitation ex exercitation.",
+    "price": 226.5,
+    "online": false,
+    "quantity": 41,
+    "details": [
+      "Ea ut aliquip consequat ut et fugiat amet proident commodo do nulla occaecat ex.",
+      "Deserunt est culpa mollit excepteur consectetur sit.",
+      "Laboris duis officia dolore velit proident in eu enim sint aliquip eu ullamco officia.",
+      "Mollit culpa nisi laboris non duis dolor magna.",
+      "Consectetur consectetur commodo tempor nisi est.",
+      "Sit cupidatat incididunt dolor qui sint.",
+      "Id commodo exercitation excepteur laboris exercitation est aute fugiat excepteur aliqua."
+    ]
+  },
+  {
+    "title": "FLOTONIC",
+    "image": "sample.jpg",
+    "description": "Nisi sint sit incididunt laborum laborum sunt consequat nulla sint voluptate.",
+    "price": 344.2,
+    "online": true,
+    "quantity": 54,
+    "details": [
+      "Ipsum veniam qui irure dolor.",
+      "Aute irure voluptate aute officia amet cupidatat ut exercitation nisi labore.",
+      "Exercitation ea dolor est enim.",
+      "Aute amet ad dolore occaecat ex ut sunt laborum.",
+      "Laboris in pariatur nostrud velit amet tempor officia nostrud pariatur reprehenderit nisi.",
+      "Ullamco ipsum do mollit ipsum.",
+      "Amet enim mollit eu labore excepteur esse eiusmod aliquip culpa labore ex qui."
+    ]
+  },
+  {
+    "title": "BLANET",
+    "image": "sample.jpg",
+    "description": "Adipisicing mollit sunt dolore in ad pariatur velit.",
+    "price": 370.43,
+    "online": true,
+    "quantity": 72,
+    "details": [
+      "Incididunt ullamco minim aliqua nisi culpa pariatur in amet sint deserunt nostrud.",
+      "Qui irure ipsum ea consectetur ut non est.",
+      "Excepteur ipsum do reprehenderit officia commodo consequat elit et consequat non deserunt deserunt nostrud adipisicing.",
+      "Culpa nulla duis id fugiat aliquip pariatur velit Lorem elit.",
+      "Fugiat qui sint duis commodo deserunt consectetur ullamco do est reprehenderit esse.",
+      "Laborum est ad esse duis esse.",
+      "Exercitation dolor occaecat id non dolor enim consequat et proident proident nisi veniam occaecat."
+    ]
+  },
+  {
+    "title": "COMTEST",
+    "image": "sample.jpg",
+    "description": "Occaecat consectetur nulla irure duis aute labore fugiat fugiat adipisicing ullamco veniam proident pariatur ut.",
+    "price": 146.98,
+    "online": true,
+    "quantity": 49,
+    "details": [
+      "Esse fugiat elit quis consectetur magna.",
+      "Tempor nulla ex amet laboris quis laboris cillum aliquip reprehenderit.",
+      "Culpa tempor elit qui enim id labore nisi eiusmod consequat tempor nostrud eu aute ea.",
+      "Proident dolor eu mollit est dolore irure qui.",
+      "Reprehenderit culpa in dolor id eiusmod nulla.",
+      "Minim duis fugiat cillum anim in non est.",
+      "Enim ut Lorem consectetur quis aute fugiat cillum esse velit aliqua tempor dolor velit."
+    ]
+  },
+  {
+    "title": "FUTURITY",
+    "image": "sample.jpg",
+    "description": "Minim tempor exercitation dolor est ullamco sunt irure dolor non amet.",
+    "price": 103.31,
+    "online": false,
+    "quantity": 40,
+    "details": [
+      "Velit minim dolor officia esse pariatur eiusmod.",
+      "Enim irure ipsum et culpa enim proident ipsum culpa amet ex.",
+      "Elit fugiat Lorem ad culpa adipisicing deserunt esse ut amet aute magna amet.",
+      "Esse esse ea aliqua excepteur veniam laborum ipsum ullamco.",
+      "Nulla dolor ipsum quis sit incididunt voluptate consectetur.",
+      "Dolore anim velit id velit anim qui amet exercitation adipisicing tempor.",
+      "Minim commodo ipsum officia ut velit eu excepteur laboris est nisi aute officia duis."
+    ]
+  },
+  {
+    "title": "SENMAO",
+    "image": "sample.jpg",
+    "description": "Esse voluptate Lorem excepteur tempor pariatur ad pariatur.",
+    "price": 196.19,
+    "online": false,
+    "quantity": 8,
+    "details": [
+      "Enim dolor tempor ipsum quis.",
+      "Culpa sunt quis consequat id sunt dolore qui anim.",
+      "Officia laboris cillum ad veniam.",
+      "Quis laboris tempor officia velit eu do ea sit qui officia.",
+      "Sint excepteur ullamco id qui labore proident quis est amet nulla aliqua nulla.",
+      "Tempor nostrud amet sunt sint sit aute adipisicing laboris nostrud ullamco sint.",
+      "Tempor non commodo velit laboris eu nisi excepteur pariatur qui sit."
+    ]
+  },
+  {
+    "title": "BALOOBA",
+    "image": "sample.jpg",
+    "description": "Occaecat commodo nisi laborum magna eiusmod laboris eiusmod commodo nisi.",
+    "price": 52.91,
+    "online": false,
+    "quantity": 92,
+    "details": [
+      "Esse et sit voluptate ex exercitation laborum laboris minim.",
+      "Ea et aliqua consectetur officia cillum.",
+      "Dolor Lorem culpa aliqua laboris ad id veniam esse est laboris do consequat mollit.",
+      "Ex cupidatat tempor laborum et qui amet consectetur irure qui incididunt culpa proident mollit laboris.",
+      "Ea eu amet eu velit occaecat qui magna eu exercitation.",
+      "Sint fugiat culpa culpa et qui in.",
+      "Labore consectetur cillum elit elit non aliqua ut non dolor cillum nostrud eu laborum enim."
+    ]
+  },
+  {
+    "title": "ZYTRAC",
+    "image": "sample.jpg",
+    "description": "Laboris irure exercitation est quis ex sint.",
+    "price": 57.74,
+    "online": false,
+    "quantity": 96,
+    "details": [
+      "Amet minim dolore do id magna aute incididunt esse labore.",
+      "Anim laborum occaecat mollit Lorem do aute id laborum duis id cupidatat fugiat.",
+      "Adipisicing excepteur magna ea commodo magna sit laborum.",
+      "Incididunt excepteur exercitation cupidatat cillum Lorem duis ad sint do enim ipsum nostrud in ut.",
+      "Aliquip ea ea do voluptate ad.",
+      "Culpa incididunt nulla veniam tempor est officia ipsum anim aliqua nisi pariatur.",
+      "Aliquip aliquip nulla cupidatat consectetur est irure magna aliquip laboris aliqua cillum occaecat elit quis."
+    ]
+  },
+  {
+    "title": "UNQ",
+    "image": "sample.jpg",
+    "description": "Laborum nisi voluptate excepteur aute dolore est tempor minim ex do.",
+    "price": 52.55,
+    "online": true,
+    "quantity": 33,
+    "details": [
+      "Anim non eu reprehenderit esse reprehenderit duis fugiat laborum est.",
+      "Ut irure eiusmod officia pariatur sunt dolor et reprehenderit velit nulla.",
+      "Velit officia sit velit ex.",
+      "Elit cupidatat ullamco duis commodo minim nulla id exercitation esse consectetur ipsum exercitation.",
+      "Incididunt anim exercitation sunt exercitation excepteur cupidatat elit exercitation.",
+      "Enim commodo minim tempor sit sunt aliqua dolore qui non irure.",
+      "Fugiat eiusmod ipsum eu culpa labore id."
+    ]
+  },
+  {
+    "title": "XELEGYL",
+    "image": "sample.jpg",
+    "description": "Exercitation do do consequat ad amet tempor elit quis Lorem eu.",
+    "price": 376.34,
+    "online": false,
+    "quantity": 34,
+    "details": [
+      "Tempor non ex culpa reprehenderit culpa incididunt sint esse commodo velit.",
+      "Fugiat occaecat quis ipsum laboris.",
+      "Dolore amet do nisi labore proident adipisicing dolor do mollit ad sit mollit et sunt.",
+      "Nulla veniam minim aute in deserunt aliquip dolore.",
+      "Culpa ea anim officia quis ipsum commodo do.",
+      "Do reprehenderit et consectetur elit et elit.",
+      "Ea ipsum officia cillum ut in tempor sunt ad in velit consequat sunt laborum."
+    ]
+  },
+  {
+    "title": "GENMEX",
+    "image": "sample.jpg",
+    "description": "Tempor deserunt exercitation labore tempor nulla proident culpa quis aliqua laboris laboris pariatur in.",
+    "price": 122.93,
+    "online": true,
+    "quantity": 28,
+    "details": [
+      "Mollit labore ut esse minim irure adipisicing duis proident amet elit nostrud commodo ad.",
+      "Duis eiusmod exercitation occaecat ipsum ipsum occaecat.",
+      "Tempor ad cupidatat mollit cillum.",
+      "Voluptate cupidatat esse qui pariatur nisi occaecat ea.",
+      "Occaecat veniam velit ut velit incididunt officia cupidatat est amet.",
+      "Velit do magna mollit labore duis culpa dolore ipsum in minim qui commodo cupidatat eu.",
+      "Velit enim quis eiusmod ad consequat sit mollit do fugiat sint exercitation voluptate."
+    ]
+  },
+  {
+    "title": "DIGITALUS",
+    "image": "sample.jpg",
+    "description": "Amet labore consectetur cillum deserunt fugiat veniam incididunt ad consequat.",
+    "price": 113.56,
+    "online": false,
+    "quantity": 49,
+    "details": [
+      "Laborum officia amet nisi est et est eu in aute Lorem nostrud sit excepteur esse.",
+      "Consequat ea commodo do ex non cupidatat incididunt amet.",
+      "Proident et dolor cupidatat cupidatat voluptate.",
+      "Lorem Lorem esse adipisicing magna ipsum elit eiusmod in occaecat exercitation magna Lorem.",
+      "Sit dolore sint nostrud ipsum.",
+      "Amet cupidatat reprehenderit sit velit ullamco reprehenderit dolore sit minim.",
+      "Sint velit magna ea id eiusmod aliquip eu laboris et Lorem."
+    ]
+  },
+  {
+    "title": "COMTRACT",
+    "image": "sample.jpg",
+    "description": "Aliquip occaecat ullamco Lorem non et culpa.",
+    "price": 21.15,
+    "online": true,
+    "quantity": 73,
+    "details": [
+      "Ut eu cillum reprehenderit elit.",
+      "Nisi ullamco aliqua ex sunt magna.",
+      "Commodo consectetur tempor sit minim labore est nulla sit nulla irure occaecat enim sunt.",
+      "Amet proident esse duis sit voluptate ad sint enim incididunt occaecat incididunt adipisicing mollit.",
+      "Deserunt cillum do in aute proident excepteur aliqua nisi dolor.",
+      "Reprehenderit dolor quis id mollit proident laborum eu occaecat non irure.",
+      "Anim mollit minim voluptate nulla aliquip in dolor elit incididunt ut deserunt."
+    ]
+  },
+  {
+    "title": "MIRACLIS",
+    "image": "sample.jpg",
+    "description": "Minim veniam fugiat in ex.",
+    "price": 355.54,
+    "online": true,
+    "quantity": 37,
+    "details": [
+      "Reprehenderit laborum culpa deserunt non.",
+      "Nisi Lorem Lorem tempor aute consectetur Lorem aliqua adipisicing.",
+      "Do ex eu fugiat et tempor enim.",
+      "Cillum id amet exercitation mollit eu sunt tempor ut enim.",
+      "Sunt cillum est id ullamco esse sunt incididunt occaecat qui consectetur velit ullamco eiusmod.",
+      "Et cupidatat ex velit tempor mollit elit ut est sunt cupidatat reprehenderit.",
+      "Veniam aliquip ea labore officia deserunt in dolor."
+    ]
+  },
+  {
+    "title": "BIOTICA",
+    "image": "sample.jpg",
+    "description": "Dolore occaecat ex ea magna et occaecat dolor veniam mollit nostrud cillum labore.",
+    "price": 334.03,
+    "online": true,
+    "quantity": 93,
+    "details": [
+      "Est id sunt sint ea in magna culpa.",
+      "Ea sunt aliquip aute exercitation amet aliqua.",
+      "Magna irure elit labore nulla fugiat duis consectetur ex sunt quis.",
+      "Aliquip enim velit sunt ullamco amet occaecat.",
+      "Ea quis esse voluptate exercitation laboris incididunt consectetur ad aliquip dolor est.",
+      "Enim occaecat officia minim qui pariatur deserunt in nulla veniam.",
+      "Minim nisi quis velit nisi ex pariatur irure magna dolor enim elit qui ipsum."
+    ]
+  },
+  {
+    "title": "ZOARERE",
+    "image": "sample.jpg",
+    "description": "Dolor cillum aliquip ullamco mollit.",
+    "price": 278.22,
+    "online": false,
+    "quantity": 85,
+    "details": [
+      "Reprehenderit cillum duis ea proident voluptate cillum dolor sint dolor.",
+      "Nostrud veniam officia occaecat non.",
+      "Sit ea minim id laboris Lorem.",
+      "Ipsum eu dolor et ut tempor dolore consequat incididunt pariatur aliqua.",
+      "Exercitation ex et et occaecat sint cillum ea anim.",
+      "Dolor sit consequat sint veniam esse officia excepteur.",
+      "Est do dolor mollit anim pariatur anim do qui laborum culpa ullamco tempor."
+    ]
+  }
+]

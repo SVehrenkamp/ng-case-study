@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="css/main.css" />
   </head>
   <body>
-    <main ng-app="app" ng-controller="MainCTRL">
-      <h1>{{store_name}} Store</h1>
+    <main ng-app="app">
+      <ui-view>
     </main>
     <!--Vendor Scripts-->
     <script type="text/javascript" src="js/vendor/angular/angular.min.js"></script>
@@ -21,6 +21,8 @@
     <script type="text/javascript" src="js/app.js"></script>
     <!--Controllers-->
     <script type="text/javascript" src="js/controllers/main.controller.js"></script>
+    <script type="text/javascript" src="js/controllers/products_list.controller.js"></script>
+    <script type="text/javascript" src="js/controllers/product.controller.js"></script>
     <!--Directives-->
     <!--Services-->
   </body>

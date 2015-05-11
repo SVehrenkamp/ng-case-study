@@ -1,0 +1,30 @@
+<div id="product_partial" ng-controller="ProductCTRL">
+	
+	<h2 class="product_title">{{product.title}}</h2>
+	<div class="product_img">
+		<img src="img/{{product.image}}" />
+	</div>
+	<div class="listing_container">
+		<div class="price_container">
+			<h3 class="price">${{product.price}}</h3>
+			<p>online price</p>
+		</div>
+		<div class="qty_controls">
+			<p>quantity:</p>
+			<button class="qty qty_dec" ng-click="updateQty('down')"> - </button>
+			<p class="qty_state">{{qty}}</p>
+			<button class="qty qty_inc" ng-click="updateQty('up')"> + </button>
+		</div>
+		<div class="product_details_container">
+			<h4>product highlights</h4>
+			<ul>
+				<li ng-repeat="detail in product.details">{{detail}}</li>
+			</ul>
+		</div>
+		<div class="actions_container">
+			<button ng-click="restock()" class="restock">RESTOCK</button>
+			<button ng-click="backToList()"class="back">BACK TO LIST</button>
+		</div>
+	</div>
+	
+</div>
