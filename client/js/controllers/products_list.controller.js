@@ -1,5 +1,5 @@
 angular.module('ProductsCTRL', [])
-	.controller('ProductsCTRL', function($scope, $http){
+	.controller('ProductsCTRL', function($scope, $http, $rootScope){
 		$scope.products_list = [];
 		$scope.sort_dir = 'price';
 		$scope.sortUp = true;

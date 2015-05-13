@@ -11,19 +11,24 @@
   </head>
   <body>
     <main ng-app="app">
-      <ui-view>
+      <navigation ng-controller="AppCTRL"></navigation>
+      <div ui-view="Main" />
     </main>
     <!--Vendor Scripts-->
+    <script type="text/javascript" src="js/vendor/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="js/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/vendor/angular/angular.min.js"></script>
     <script type="text/javascript" src="js/vendor/angular-ui-router/release/angular-ui-router.min.js"></script>
     <script type="text/javascript" src="js/vendor/ng-resource/dist/ng-resource.min.js"></script>
     <!--App Scripts-->
     <script type="text/javascript" src="js/app.js"></script>
     <!--Controllers-->
+    <script type="text/javascript" src="js/controllers/app.controller.js"></script>
     <script type="text/javascript" src="js/controllers/main.controller.js"></script>
     <script type="text/javascript" src="js/controllers/products_list.controller.js"></script>
     <script type="text/javascript" src="js/controllers/product.controller.js"></script>
     <!--Directives-->
+    <script type="text/javascript" src="js/directives/navigation.directive.js"></script>
     <!--Services-->
   </body>
 </html>

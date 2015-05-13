@@ -17,6 +17,45 @@ div.product_img{
 		width:100%;
 	}
 }
+#home_partial{
+	h1{
+		text-align:center;
+		width:80%;
+		display:block;
+		margin:20px auto;
+	}
+	form{
+		width:80%;
+		height:60%;
+		display:block;
+		margin:0 auto;
+		border:1px solid #cccccc;
+		box-shadow:1px 2px 3px #999;
+		padding:4px;
+
+		input{
+			width:80%;
+			display:block;
+			margin:10px auto;
+		}
+		button{
+			display:block;
+			width:80%;
+			height:20%;
+			margin:20px auto;
+		}
+
+		div.login_error{
+			display:block;
+			margin:10px auto;
+			text-align:center;
+
+			p{
+				color:#cc0000;
+			}
+		}
+	}
+}
 #product_partial{
 	text-align:center;
 

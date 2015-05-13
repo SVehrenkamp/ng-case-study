@@ -1,3 +1,15 @@
-<div ng-controller="MainCTRL">
-	<h1>Welcome to {{store_name}}</h1>
+<div id="home_partial" ng-controller="MainCTRL">
+	<h1><small>Please Login to</small><br> myRetail App</h1>
+	<div id="login">
+		<form>
+			<input ng-model="user.username" id="username" type="text" placeholder="Enter Your Username" />
+			<input ng-model="user.password" id="login_password" type="password" placeholder="Enter Your Password" />
+			
+			<div ng-if="error" class="login_error">
+				<p>Login Attempt Failed.  The username or password you have entered is incorrect.</p>
+			</div>
+
+			<button ng-click="login()" class="btn btn-primary">Login</button>
+		</form>
+	</div>
 </div>
