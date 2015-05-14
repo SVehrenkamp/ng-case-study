@@ -43,5 +43,27 @@ products.find({}, function(err, entries){
 			}
 		});
 	}
-	console.log("Import finished without errors! Press CTRL+C to exit!");
+	console.log("Products import finished without errors!");
 });
+var User = mongoose.model(
+	'User',
+	mongoose.Schema({
+		'email': String,
+		'password': String,
+		'username': String
+	})
+);
+
+var user = new User({
+	'email': 'tester@target.com',
+	'password': 'test123',
+	'username': 'tester'
+});
+user.save(function(err, entry){
+	if(err){
+		console.log("Error on product save!");
+	}
+		console.log("Import finished without errors! Press CTRL+C to exit!");
+
+});
+	

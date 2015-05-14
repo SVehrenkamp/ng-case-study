@@ -12,11 +12,9 @@ Sample angular app.
 # Installation
 - Make sure you have the above requirements installed before continuing.
 - Clone the project, ```cd /into/cloned/directory```
-- Run the import script to populate a Mongo Instance ```node import```
+- Populate a new MongoDB instance with sample data provided ```mongorestore -d myRetail ./myRetail```
 - Run ```npm install``` to install node dependencies
 - Run ```bower install`` to install client dependencies
 - Run ```grunt``` to start REST API/Server
 - The app is now running at ```http://localhost:3000```
-
-#Platform Targets and App Deployment
-- Comming soon!
+- Login in with username ```tester``` password ```test123```
